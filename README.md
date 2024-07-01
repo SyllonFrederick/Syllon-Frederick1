@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Welcome to Wonderland Syllon Frederick</h1>
+<h1 align="center">Hello, Welcome to Wonderland I'm Syllon Frederick</h1>
 <h3 align="center">I am a Junior in High-School. I just want to learn a new skill and have fun.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syllonfrederick" alt="syllonfrederick" /></a> </p>
